@@ -11,7 +11,7 @@ This project will show a simple spring boot cloud application. It will start hav
 
 #### This project is composed of the following modules :
 
-    * Ares - The Spring Cloud Config implementation that use the following public GIT repo : https://github.com/PvMeira/spring-cloud-configs
+    * Ares - The Spring Cloud Config implementation that use the following public GIT repo : https://github.com/lrsousa/spring-cloud-configs
     * Gaia - The Spring Cloud using Eureka implementation for services registration and discovery.
     * Hades - The Spring security with Oauth2 implementation.
 
