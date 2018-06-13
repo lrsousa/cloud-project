@@ -36,3 +36,10 @@ This project will show a simple spring boot cloud application. It will start hav
         
     * https://github.com/PvMeira/spring-cloud-configs
         These will show the project that the ARES project will use to load the aplications configuratios
+        
+ #### How to run the app:
+    
+    1. Run the Ares  application
+    2. Run the Gaia  application
+    3. Run the Hades application
+    4. Run the Register Aplication
