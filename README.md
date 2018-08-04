@@ -34,7 +34,7 @@ This project will show a simple spring boot cloud application. It will start hav
     * http://localhost:9091/ 
         These will show the Eureka dashboard with all avaliable instances.
         
-    * https://github.com/PvMeira/spring-cloud-configs
+    * https://github.com/lrsousa/spring-cloud-configs
         These will show the project that the ARES project will use to load the aplications configuratios
         
  #### How to run the app:
